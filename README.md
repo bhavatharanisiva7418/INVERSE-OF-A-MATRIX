@@ -24,9 +24,10 @@ import numpy as np
 A=[[2,1,1],[1,1,1],[1,-1,2]]
 B=np.linalg.inv(A)
 print(B)
+```
 
 ## Output:
-![output](inverseofmatrixoutput-1.png)
+![output](./inverseofmatrixoutput.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
